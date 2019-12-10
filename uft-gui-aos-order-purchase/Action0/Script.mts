@@ -1,3 +1,3 @@
 ﻿RunAction "Login", oneIteration
-RunAction "ShopAndPurchase", oneIteration
+RunAction "ShopAndPurchase", allIterations
 RunAction "Logout", oneIteration

@@ -5,7 +5,7 @@
 ' "C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\PasswordEncryption.exe"
 ' or change the password.SetSecure to password.Set and use an unencrypted password
 
-' if you change the record and run settings to parameterize the browser
+' if you change the record and run settings to parameterize the browser 
 ' IE, CHROME, and FIREFOX64 have been verified
 
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("UserMenu").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("UserMenu")_;_script infofile_;_ZIP::ssf1.xml_;_
